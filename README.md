@@ -1,6 +1,6 @@
 # UniVault (University Record and Simulation System)
 
-A console-based C++ university management system which is built as a semester project for CS101 (Programming Fundamentals) at my university(FAST NUCES Isamabad Campus).
+A console-based C++ university management system which is built as a semester project for CS101 (Programming Fundamentals) at my university (FAST NUCES Isamabad Campus).
 
 ## What it does?
 1) Manages departments, floors, and rooms as a 3D grid
